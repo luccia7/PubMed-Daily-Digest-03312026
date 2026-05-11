@@ -1,0 +1,108 @@
+{
+  "date": "2026-05-11",
+  "topics": [
+    {
+      "topic": "((adherence OR persistence OR switch OR discontinue) AND (GLP-1 OR \"GLP-1 RA\"))",
+      "articles": [
+        {
+          "pmid": "42105869",
+          "title": "Safety of GLP-1 receptor agonists in type 1 diabetes: a systematic review and meta-analysis.",
+          "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) are increasingly explored as adjuncts in Type 1 Diabetes Mellitus (T1DM), though concerns regarding hypoglycaemia and diabetic ketoacidosis (DKA) limit their adoption. To comprehensively evaluate their safety, we conducted a systematic review and meta-analysis following PRISMA guidelines. Major databases were searched through June 2025. Outcomes included hypoglycaemia, DKA, gastrointestinal adverse events, and study withdrawals. Twenty-five studies (23 RCTs, 2 observational) were included. Updated pooled data established a neutral risk for overall hypoglycaemia (RR 1.01; Moderate certainty) and serious adverse events (RR 0.89; Moderate certainty). Furthermore, no significant increase was observed for severe hypoglycaemia (RR 0.74; Low certainty) or DKA (RR 0.60; Very Low certainty), though statistical imprecision warrants cautious interpretation. However, GLP-1 RAs significantly increased nausea (RR 2.89) and vomiting (RR 3.10), driving a twofold increase in early treatment withdrawal (RR 2.02; Moderate certainty). Subgroup analysis revealed that overall tolerability significantly improves after six months of therapy. In conclusion, in pooled analyses, GLP-1 RAs were not associated with increased severe hypoglycaemia or DKA, although evidence remains limited. However, a substantial early gastrointestinal burden necessitates cautious patient selection and stepwise dose-titration to maximize patient tolerability and long-term adherence.",
+          "authors": [
+            "Ramya Kateel",
+            "Amrita Parida",
+            "Bharti Chogtu",
+            "et al."
+          ],
+          "journal": "Diabetes research and clinical practice",
+          "pub_date": "May 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42105869/"
+        },
+        {
+          "pmid": "42098901",
+          "title": "Pre-Pregnancy GLP-1 Receptor Agonist or Tirzepatide Use and Gestational Diabetes Risk: Evaluating Pharmacodynamic Carry-Over Versus Post-Discontinuation Metabolic Rebound in a Multinational Federated Cohort.",
+          "abstract": "To evaluate the association between preconception glucagon-like peptide-1 receptor agonist (GLP-1RA)/tirzepatide use and the risk of gestational diabetes mellitus (GDM). This retrospective cohort study (January 1, 2015-April 30, 2025) utilised the TriNetX multinational network. Women (18-45\u2009years) without pre-existing diabetes were propensity score-matched 1:1 on demographics, numerical BMI, HbA1c and comorbidities. The primary cohort examined preconception GLP-1RA/tirzepatide use 6-18\u2009months before index pregnancy encounter with pre-pregnancy (>\u200990\u2009days pre-index) discontinuation. Secondary analysis evaluated abrupt discontinuation (prescription issuance \u2264\u200990\u2009days pre-index). Risk ratios (RR) were estimated in matched cohorts. When matched for pre-pregnancy BMI, preconception GLP-1RA/tirzepatide use was associated with a GDM risk comparable to non-users (N\u2009=\u2009892; 16.3% vs. 16.8%; RR: 0.967; 95% CI: 0.719-1.315), despite a higher gestational BMI rebound (+1.8 vs. +1.2\u2009kg/m Preconception GLP-1RA or tirzepatide therapy with pre-pregnancy discontinuation was associated with GDM risk comparable to BMI-matched unexposed women despite a modest BMI rebound. However, abrupt discontinuation close to conception conferred a 53% higher GDM risk, indicating that any pharmacodynamic carry-over effect is contingent upon the discontinuation timing and velocity of weight rebound during gestation, rather than preconception exposure itself. Pending confirmation in prospective studies, these findings identify the post-withdrawal window and subsequent weight rebound as targets for preconception care strategies to preserve a potential residual metabolic benefit in women receiving incretin-based therapy.",
+          "authors": [
+            "Mainak Banerjee",
+            "Sulagna Dutta",
+            "Sujoy Dasgupta"
+          ],
+          "journal": "Diabetes, obesity & metabolism",
+          "pub_date": "May 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42098901/"
+        },
+        {
+          "pmid": "42086460",
+          "title": "Adherence and Persistence Among Individuals Living With Type 2 Diabetes and Using a Free Combination of Basal Insulin and an Injectable Glucagon-Like Peptide-1 Receptor Agonist Versus a Fixed-Ratio Combination Therapy: A Japanese Database Study.",
+          "abstract": "To investigate adherence to and persistence with free combination therapy (daily basal insulin plus an injectable glucagon-like peptide-1 receptor agonist [GLP-1 RA]) versus fixed-ratio combination (FRC) therapy (basal insulin plus a GLP-1 RA) among individuals with type 2 diabetes (T2D) in Japan. This retrospective, observational cohort study used DeSC-IQVIA Integrated claims data from Japan to identify adults (aged \u2265\u200918\u2009years) with confirmed T2D and \u2265\u20091 prescription for a GLP-1 RA (with predefined basal insulin persistence window) or an FRC during October 2019 to September 2023. Study index was date of first GLP-1 RA or FRC prescription; follow-up was 365\u2009days. The primary objective was to evaluate adherence to and persistence with free combination therapy versus FRC therapy. Age (mean [standard deviation]) at index was statistically significantly higher in the free combination group (67.0 [13.85] years, n\u2009=\u20092063) than in the FRC group (65.7 [13.85] years, n\u2009=\u20092386) (p\u2009=\u20090.002). Odds of optimal adherence at end of follow-up were statistically significantly higher with FRC therapy than with free combination therapy (adjusted odds ratio [95% confidence interval]: 1.96 [1.73-2.23]; p\u2009<\u20090.001). Risk of discontinuation by end of follow-up was statistically significantly lower with FRC therapy than with free combination therapy (adjusted hazard ratio [95% confidence interval]: 0.66 [0.61-0.71]; p\u2009<\u20090.001). Adherence and persistence findings were similar in elderly individuals. In this real-world, adult population with T2D in Japan, FRC therapy was associated with improved adherence and persistence versus free combination therapy.",
+          "authors": [
+            "Takeshi Miyatsuka",
+            "James Brash",
+            "Eleanor Davies",
+            "et al."
+          ],
+          "journal": "Diabetes, obesity & metabolism",
+          "pub_date": "May 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42086460/"
+        },
+        {
+          "pmid": "42084373",
+          "title": "Glucagon-Like Peptide-1 Receptor Agonists and Outcomes After Intracerebral Hemorrhage in Patients With Type 2 Diabetes: A Propensity-Matched Cohort Study.",
+          "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1RAs) have shown neuroprotective and anti-inflammatory effects in cerebrovascular disease, and previous studies suggest reduced stroke risk and overall mortality. This study compared post-intracerebral hemorrhage (ICH) outcomes in patients with type 2 diabetes mellitus (T2DM) receiving GLP-1RAs vs other hypoglycemic drugs including insulin. We conducted a retrospective cohort study using the global TriNetX network database. Patients with ICH and T2DM were stratified by GLP-1RA exposure, initiation between 5 years before and the day of the ICH and compared with patients treated with other hypoglycemic agents. After 1:1 propensity matching, 3600 patients per cohort were included in the analysis. Outcomes were assessed at 7, 30, and 90 days (all-cause mortality, seizures, craniectomy/craniotomy procedures, and external ventricular drain placement) and at 1 and 5 years post-ICH (all-cause mortality, seizures, palliative care, and respiratory failure). GLP-1RA use was associated with lower 7-day mortality (adjusted hazard ratio [AHR] 0.831, 95% CI 0.703, 0.983), 30-day mortality (AHR 0.835, 95% CI 0.741-0.942), and 90-day mortality (AHR 0.805, 95% CI 0.725-0.894). External ventricular drain insertion was not significantly different at any time point. Craniectomy/craniotomy and seizure risk were not significantly different at 7 or 30 days but were lower by 90 days (craniectomy/craniotomy: 2.8% vs 3.6%; AHR 0.763; seizures: 6.4% vs 7.7%; AHR 0.804). The mortality and seizure benefit persisted at 1 and 5 years. At 1 and 5 years, GLP-1RA use was also associated with reduced need for palliative care (1 year: 10.4% vs 13.1%; AHR 0.754; 5 years: 13.1% vs 16.1%; AHR 0.775) and respiratory failure (1 year: 19.8% vs 22.7%; AHR 0.825; 5 years: 25.2% vs 28.1%; AHR 0.854). In this cohort of patients with ICH and T2DM, GLP-1RA use was associated with improved outcomes. Prospective trials are warranted to confirm these observations.",
+          "authors": [
+            "Fnu Ruchika",
+            "David Lee",
+            "James Feghali",
+            "et al."
+          ],
+          "journal": "Neurosurgery",
+          "pub_date": "May 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42084373/"
+        }
+      ],
+      "summaries": [
+        {
+          "study_type": "Systematic review and meta-analysis",
+          "study_type_category": "meta-analysis",
+          "include": true,
+          "sample_size": "25 studies (23 RCTs, 2 observational)",
+          "population": "Patients with Type 1 Diabetes Mellitus",
+          "medications": "GLP-1 receptor agonists",
+          "country_dataset": "Multiple (systematic review through June 2025)",
+          "key_findings": "Systematic review and meta-analysis of 25 studies including 23 RCTs and 2 observational studies evaluated safety of GLP-1 RAs in T1DM. Updated pooled data established a neutral risk profile regarding hypoglycemia and diabetic ketoacidosis, addressing key safety concerns limiting their adoption as adjunct therapy in Type 1 Diabetes."
+        },
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Women aged 18-45 years without pre-existing diabetes evaluating preconception GLP-1RA/tirzepatide use",
+          "medications": "GLP-1 receptor agonists, tirzepatide",
+          "country_dataset": "TriNetX multinational federated cohort (January 1, 2015-April 30, 2025)",
+          "key_findings": "Retrospective cohort study evaluated association between preconception GLP-1RA/tirzepatide use and gestational diabetes risk using propensity score matching. Study examined pharmacodynamic carry-over effects versus post-discontinuation metabolic rebound in women with 6-18 months preconception medication use and pre-pregnancy discontinuation."
+        },
+        {
+          "study_type": "Real-world study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported (claims database study)",
+          "population": "Adults aged \u226518 years with type 2 diabetes using basal insulin and GLP-1 receptor agonist therapy in Japan",
+          "medications": "Free combination therapy (basal insulin plus injectable GLP-1 RA) versus fixed-ratio combination therapy (basal insulin plus GLP-1 RA)",
+          "country_dataset": "Japan (DeSC-IQVIA Integrated claims data, October 2019 to September 2023)",
+          "key_findings": "Retrospective observational cohort study compared adherence and persistence between free combination therapy (daily basal insulin plus injectable GLP-1 RA) versus fixed-ratio combination therapy in Japanese patients with type 2 diabetes, examining differences in treatment continuation and medication adherence patterns."
+        },
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "Patients with intracerebral hemorrhage and type 2 diabetes mellitus",
+          "medications": "GLP-1 receptor agonists versus other hypoglycemic drugs including insulin",
+          "country_dataset": "TriNetX global network database",
+          "key_findings": "Retrospective propensity-matched cohort study compared post-intracerebral hemorrhage outcomes in patients with T2DM receiving GLP-1RAs versus other hypoglycemic drugs, examining GLP-1RA exposure within 5 years before ICH onset and assessing neuroprotective and anti-inflammatory effects on patient outcomes."
+        }
+      ],
+      "excluded_count": 8
+    }
+  ]
+}
