@@ -1,0 +1,157 @@
+{
+  "date": "2026-06-01",
+  "topics": [
+    {
+      "topic": "((adherence OR persistence OR switch OR discontinue) AND (GLP-1 OR \"GLP-1 RA\"))",
+      "articles": [
+        {
+          "pmid": "42222894",
+          "title": "Combining GLP-1 Receptor Agonists and Health-Behaviour and Lifestyle Therapy Yields Higher Adherence and Reduces Session Needs for Successful Weight Management in Adolescence: An Observational Real-World Single-Center Study.",
+          "abstract": "Evidence for the role of health behaviour and lifestyle treatment (HBLT) on the effectiveness of glucagon-like peptide-1 receptor agonists (GLP-1RAs) in paediatric obesity is limited. To assess the role of HBLT on the effectiveness of GLP-1RAs in youth with obesity. Patients aged 8-18\u2009years with obesity (n\u2009=\u200951) receiving liraglutide were retrospectively divided into continuers (ongoing liraglutide treatment), discontinuers, or switches to semaglutide or metabolic-bariatric surgery. All were offered multidisciplinary HBLT and consecutively allocated to either high-frequency (HF) HBLT (\u2265\u200926 contact hours/year) or low-frequency obesity medication (OM)-specific HBLT (9 contacts of 0.5\u2009h/year). After 9.7\u2009\u00b1\u20096.6\u2009months, a BMI reduction of \u2265\u20095% and \u2265\u200910% was observed in 37.3% and 13.7%, respectively. Relative change in BMI was higher in continuers compared to discontinuers (-6.7%\u2009\u00b1\u20097.5% vs. -0.7%\u2009\u00b1\u20095.1%, p\u2009=\u20090.03). Whereas 39.2% of patients continued liraglutide, 33.3% discontinued, mainly due to gastrointestinal symptoms. 27.4% of patients switched treatment to semaglutide or underwent surgery. Patients with combined HBLT and liraglutide had markedly higher odds of continuation (OR 18.5, 95% CI 2.0-929.8, p\u2009<\u20090.01) and greater reductions in BMI, which was by trend higher with OM-HBLT compared to HF-HBLT (BMI change -6.9%\u2009\u00b1\u20097.2% vs. -4.0%\u2009\u00b1\u20096.6%). GLP-1RAs were effective in the real-world treatment of paediatric obesity. HBLT appears to be essential to increase persistence and efficacy of GLP-1RAs.",
+          "authors": [
+            "Julia Lischka",
+            "Gabriel Torbahn",
+            "Michael Vallis",
+            "et al."
+          ],
+          "journal": "Pediatric obesity",
+          "pub_date": "Jun 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42222894/"
+        },
+        {
+          "pmid": "42217114",
+          "title": "Retrospective Assessment of Food Noise Changes After Initiation of Injectable Semaglutide for Weight Management in the USA: The INFORM Survey.",
+          "abstract": "'Food noise', persistent and intrusive thoughts about food that can disrupt daily life, has emerged as a concern for individuals with obesity, and often impacts quality of life. Recent anecdotal reports suggest that glucagon-like peptide-1 receptor agonists, such as semaglutide, may reduce food noise. Research is needed to characterize food noise in real-world populations and to quantify the impact of weight management treatments on its presentation and intensity. We present findings from the INFORM survey, which assessed perceived changes in food noise among US adults receiving injectable semaglutide for weight management. Individuals recruited from Numerator's opinion panel were asked to complete 22 multiple choice questions, including the five-item Food Noise Questionnaire (FNQ). In total, 550 people participated in the survey. Respondents were predominantly women (86%) and white (79%), with a mean age of 53 years (standard deviation 10.8). Most had baseline body mass index (BMI)\u2009\u2265\u200930 kg/m Further prospective, longitudinal research is warranted to fully characterize these apparent promising effects of semaglutide for weight management, and their relationship with clinical outcomes.",
+          "authors": [
+            "Timothy Arnaut",
+            "Shannon Duncan",
+            "Mads Faurby",
+            "et al."
+          ],
+          "journal": "Advances in therapy",
+          "pub_date": "May 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42217114/"
+        },
+        {
+          "pmid": "42213238",
+          "title": "Perioperative glucagon-like peptide-1 receptor agonist use and surgical outcomes in patients with morbid obesity (BMI\u2009>\u200935) undergoing robotic urologic surgery: A propensity score-matched analysis.",
+          "abstract": "To evaluate the association between established glucagon-like peptide-1 receptor agonist (GLP-1RA) use and postoperative outcomes in obese patients undergoing robotic urologic surgery. Single-center retrospective cohort study of 361 adults with BMI\u2009\u2265\u200935 undergoing robotic-assisted radical prostatectomy, partial nephrectomy, or radical nephrectomy from 2017 to 2024. Established GLP-1RA exposure required\u2009\u2265\u20093 months of documented use before and after surgery. Propensity score was used for 2:1 nearest-neighbor matching (36 GLP-1RA users, 59 controls). The primary outcome was any complication (Clavien-Dindo classification); secondary outcomes included major complications (Clavien-Dindo\u2009\u2265\u2009III), comprehensive complication index (CCI), estimated blood loss (EBL), length of stay (LOS), peak pain score, and emergency department (ED) utilization at 90 days and 1 year. Covariate balance was achieved (mean absolute SMD 0.036; maximum 0.074). GLP-1RA use was not associated with any complication (OR 2.39, 95% CI 0.63-9.10), major complications (OR 3.70, 95% CI 0.45-30.32), or CCI (mean difference 1.29, p\u2009=\u20090.64). EBL was reduced but nonsignificant (mean difference\u2009-\u200981.32 mL, 95% CI -165.85 to 3.22, p\u2009=\u20090.06); LOS was shorter but nonsignificant (mean difference\u2009-\u20090.78 days, p\u2009=\u20090.11). Peak pain scores and ED utilization did not differ. Established GLP-1RA use was not associated with increased postoperative complications, morbidity, or ED utilization in obese patients undergoing robotic urologic surgery. While power constraints preclude conclusions of equivalence, these findings provide the first urologic-specific perioperative safety data and support individualized rather than reflexive GLP-1RA discontinuation in this growing surgical population.",
+          "authors": [
+            "Michael Gallagher",
+            "Bennett Taylor",
+            "Isabella Mirro",
+            "et al."
+          ],
+          "journal": "Journal of robotic surgery",
+          "pub_date": "May 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42213238/"
+        },
+        {
+          "pmid": "42186215",
+          "title": "Real-World Effectiveness and 12-Month Persistence of a Semaglutide-Supported Digital Weight-Loss Service: A Retrospective Cohort Study in Germany.",
+          "abstract": "To evaluate the 12-month effectiveness and patient persistence of a semaglutide-supported digital weight-loss service (DWLS) in a real-world German cohort. This retrospective study analysed 4535 patients who initiated the Juniper Germany DWLS. Primary endpoints included 12-month medication and data submission adherence (receiving \u2265\u200910 orders) and mean weight-loss percentage. Effectiveness was assessed via a per-protocol (PP) analysis of an adherent sub-cohort (n\u2009=\u2009546) and an intention-to-treat (ITT) analysis of the full cohort using Last Observation Carried Forward (LOCF) and a Worst-Case Scenario (WCS) sensitivity model. Binary logistic and multiple linear regressions identified predictors of attrition (churn) and efficacy. Of the total cohort (n\u2009=\u20094535), mean 12-month weight loss was 9.47% (LOCF). However, sensitivity analysis using a WCS model-assuming 0% weight loss for all dropouts-yielded a mean of 2.40%. Among the 12% of patients (n\u2009=\u2009546) who remained adherent to both medication and data submission protocols, mean weight loss was 15.13% (\u00b17.1). Program persistence was significantly bolstered by achieving a healthy BMI milestone (OR\u2009=\u20090.29, p\u2009<\u20090.001), encountering a weight-loss plateau (OR\u2009=\u20090.41, p\u2009<\u20090.001), and higher baseline obesity severity (Obesity Class I-III: p\u2009<\u20090.023). Conversely, high clinical complexity (\u2265\u20093 comorbidities) more than doubled the risk of churn (OR\u2009=\u20092.12, p\u2009=\u20090.002), while previous GLP-1 RA use also significantly increased churn risk (OR\u2009=\u20091.57, p\u2009=\u20090.001). While moderate early engagement (2-10 logs) was a strong predictor of persistence (p\u2009<\u20090.001), intensive tracking (>\u200910 logs) did not significantly reduce churn risk (p\u2009=\u20090.393). The population-level impact of this DWLS is fundamentally limited by high attrition (88%) in an unsubsidised environment. While significant weight loss is possible for a non-representative adherent minority, the mean effectiveness for the total initiating population (2.40% WCS) highlights that real-world success is strictly conditional upon long-term persistence. The study found that both clinical success and setbacks were associated with program adherence. It also observed that patients of high clinical complexity were at greater risk of attrition. Finally, it found that high-friction manual weight logging serves as a marker of commitment rather than anxiety as had been reported in app-based DWLSs where tracking has significantly lower friction. These findings suggest that the predictive value of digital engagement is fundamentally shaped by DWLS delivery mode and the behavioural cost of engagement.",
+          "authors": [
+            "Louis Talay",
+            "Jason Hom",
+            "Marilyn Tan",
+            "et al."
+          ],
+          "journal": "Diabetes, obesity & metabolism",
+          "pub_date": "May 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42186215/"
+        },
+        {
+          "pmid": "42179812",
+          "title": "Missing Opportunity for Nephroprotective Therapy in Patients With Non-Dialysis CKD Under Stable Nephrology Care.",
+          "abstract": "Awareness of the implementation of guideline-directed nephroprotective therapy is an essential preliminary step to optimize implementation of nephroprotective strategies in nondialysis chronic kidney disease (CKD) (ND-CKD). However, updated information on this issue is lacking in the setting of nephrology clinics. In this multicenter prospective study, we collected data from 4523 patients with ND-CKD, either stage 3 to 5 or 1 and 2 with urinary albumin-to-creatinine ratio (ACR) > 30 mg/g, followed up in 30 Italian nephrology clinics. Patients were evaluated at 2 visits with a 6-month interval between May 2024 and May 2025. The aim was to evaluate the current phenotype of patients under tertiary nephrology care and the management of the 2 major modifiable determinants of renal risk, hypertension and ACR, including therapeutic inertia. The cohort was characterized by a severe cardiorenal risk profile: men comprised 65% of the cohort, mean age was 71 \u00b1 14 years, diabetes was present in 40%, cardiovascular disease in 40%, estimated glomerular filtration rate (eGFR) was 34 \u00b1 19 ml/min per 1.73 m The large majority of patients with ND-CKD currently followed up in Italian renal clinics are characterized by a severe risk profile that is paradoxically associated with remarkable therapeutic inertia for both traditional and innovative guideline-directed nephroprotective therapy.",
+          "authors": [
+            "Luca De Nicola",
+            "Chiara Ruotolo",
+            "Gaetano La Manna",
+            "et al."
+          ],
+          "journal": "Kidney international reports",
+          "pub_date": "Jun 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42179812/"
+        },
+        {
+          "pmid": "41979383",
+          "title": "Glucagon-Like Peptide-1 Receptor Agonist Utilization Among Sleep Surgery Clinic Patients.",
+          "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) are approved to treat obstructive sleep apnea (OSA), yet their use in an OSA population has not been characterized. This study evaluates GLP-1 RA use in patients presenting to a sleep surgery clinic. Retrospective. Tertiary care institution. Patients with OSA who presented to our sleep surgery clinic between October 2023 and March 2025 with available sleep studies were included (n\u2009=\u2009384). Demographic data, body mass index (BMI), apnea-hypopnea index (AHI), OSA history, GLP-1 RA prescription data, and usage details were collected through chart review. Eligibility for GLP-1 RA was defined by FDA drug labeling criteria, with diabetes, obesity, or BMI\u2009\u2265\u200927\u2009kg/m\u00b2 with a weight-related comorbidity. The cohort had mean age 53.3\u2009\u00b1\u200914.8 years, BMI 29.4\u2009\u00b1\u20095.7\u2009kg/m Among sleep surgery clinic patients, a large proportion were eligible for GLP-1 RA use, and utilization was high compared to that of the general population.",
+          "authors": [
+            "Rachel B Kutler",
+            "Allison Lin",
+            "Lauren Zhang",
+            "et al."
+          ],
+          "journal": "Otolaryngology--head and neck surgery : official journal of American Academy of Otolaryngology-Head and Neck Surgery",
+          "pub_date": "Jun 2026",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41979383/"
+        }
+      ],
+      "summaries": [
+        {
+          "study_type": "Real-world study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "n=51",
+          "population": "Adolescents aged 8-18 years with obesity",
+          "medications": "Liraglutide, semaglutide, metabolic-bariatric surgery",
+          "country_dataset": "Single-center (location not specified)",
+          "key_findings": "Combining GLP-1 receptor agonists with high-frequency health behaviour and lifestyle therapy yielded higher adherence and reduced session needs for weight management in youth with obesity. Patients were divided into continuers, discontinuers, or those who switched to semaglutide or metabolic-bariatric surgery."
+        },
+        {
+          "study_type": "Real-world study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "Not reported",
+          "population": "US adults receiving injectable semaglutide for weight management",
+          "medications": "Semaglutide injection",
+          "country_dataset": "USA",
+          "key_findings": "The INFORM survey assessed perceived changes in food noise among US adults receiving injectable semaglutide. Food noise, defined as persistent and intrusive thoughts about food, was characterized in real-world populations and the impact of weight management treatment on its presentation and intensity was quantified."
+        },
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "n=361 (36 GLP-1RA users, 59 controls after matching)",
+          "population": "Adults with BMI \u226535 undergoing robotic urologic surgery",
+          "medications": "GLP-1 receptor agonists (established use \u22653 months)",
+          "country_dataset": "USA (single-center)",
+          "key_findings": "Propensity score-matched retrospective cohort study evaluated the association between established GLP-1RA use and postoperative outcomes in obese patients undergoing robotic urologic surgery. Primary outcome was any complication using Clavien-Dindo classification."
+        },
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "n=4535 (adherent sub-cohort n=546)",
+          "population": "German patients initiating semaglutide-supported digital weight-loss service",
+          "medications": "Semaglutide",
+          "country_dataset": "Germany",
+          "key_findings": "12-month persistence and effectiveness of semaglutide-supported digital weight-loss service showed primary endpoints of medication and data submission adherence (\u226510 orders) with mean weight-loss percentage assessed via per-protocol and intention-to-treat analyses in real-world German cohort."
+        },
+        {
+          "study_type": "Prospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "n=4523",
+          "population": "Patients with non-dialysis chronic kidney disease (stage 3-5 or 1-2 with ACR >30 mg/g) followed in nephrology clinics",
+          "medications": "Nephroprotective therapy including GLP-1 receptor agonists",
+          "country_dataset": "Italy (30 nephrology clinics)",
+          "key_findings": "Multicenter prospective study evaluated implementation of guideline-directed nephroprotective therapy in non-dialysis CKD patients, with data collected at two visits 6 months apart, examining adherence to recommended nephroprotective strategies."
+        },
+        {
+          "study_type": "Retrospective cohort study",
+          "study_type_category": "observational",
+          "include": true,
+          "sample_size": "n=384",
+          "population": "Patients with obstructive sleep apnea presenting to sleep surgery clinic",
+          "medications": "GLP-1 receptor agonists",
+          "country_dataset": "USA (tertiary care institution)",
+          "key_findings": "Retrospective study characterized GLP-1 RA utilization and usage patterns in patients with OSA presenting to sleep surgery clinic, collecting demographic data, BMI, apnea-hypopnea index, OSA history, and GLP-1 RA prescription and usage details."
+        }
+      ],
+      "excluded_count": 19
+    }
+  ]
+}
